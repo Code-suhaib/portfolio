@@ -102,7 +102,7 @@ export default function Portfolio() {
 
       <div className="mt-10 flex gap-6">
 
-        <button className="bg-purple-500 hover:bg-purple-600 transition px-8 py-3 rounded-xl font-medium shadow-lg shadow-purple-500/30">
+        <button className="bg-purple-500 hover:bg-purple-600 transition px-8 py-3 rounded-xl font-medium shadow-lg shadow-purple-500/30" >
           View Projects
         </button>
 
@@ -221,7 +221,7 @@ export default function Portfolio() {
         </p>
 
         <p className="text-gray-400">
-          Contact: 8600252724
+
         </p>
 
       </section>
